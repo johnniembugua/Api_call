@@ -1,6 +1,6 @@
-# api_call2
+# List of Users
 
-A new Flutter project.
+A Flutter application that makes api call to list only 5 users and align them to the center of the screen
 
 ## Getting Started
 
