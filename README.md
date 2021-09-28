@@ -1,6 +1,6 @@
 # List of Users
 
-A Flutter application that makes api call to list only 5 users and align them to the center of the screen
+A Flutter application that displays list only 5 users from a restful api and align it at center of the screen
 
 ## Getting Started
 
