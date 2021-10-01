@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     : Center(
                         child: ListView.builder(
                             itemCount: controller.getUsers.length < 5
-                                ? controller.getUsers.length > 5
+                                ? controller.getUsers.length
                                 : 5,
                             itemBuilder: (context, index) {
                               var user = controller.getUsers[index];
